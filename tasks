@@ -1,2 +1,15 @@
 Task 1 - Create a pull request.
 Task 2 - On a separate branch initialize a React project, remove all boilerplate code and create a pull request.
+Task 3 - Create the following folder structure in the project (include .gitkeep files in each of the folders so that git wouldn't discard them as empty folders):
+       -- src
+          -- components
+              .gitkeep
+          -- routes
+              .gitkeep
+          -- models
+              .gitkeep
+          -- data
+              .gitkeep
+Task 4 - Install the following packages: react-router-dom, react-toastify & react-icons.
+Task 5 - Bring the following Google font with all its weights into the project: Poppins. Then include a single paragraph in the App component to see if the Google font import works.
+            
