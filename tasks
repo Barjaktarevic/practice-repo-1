@@ -12,4 +12,10 @@ Task 3 - Create the following folder structure in the project (include .gitkeep 
               .gitkeep
 Task 4 - Install the following packages: react-router-dom, react-toastify & react-icons.
 Task 5 - Bring the following Google font with all its weights into the project: Poppins. Then include a single paragraph in the App component to see if the Google font import works.
+Task 6 - You will be making an e-commerce store based on this website: https://www.c-and-a.com/eu/en/shop. The site should have three pages: 
+              1. Front page (what you see when you visit that link).
+              2. One of the links (women / men / babies) should work and it should open to a page with 4 items of clothing on it (similar to this when you scroll down a bit: https://www.c-and-a.com/eu/en/shop/women-clothing-jackets)
+              3. You can enter each item separately and get a page like this: https://www.c-and-a.com/eu/en/shop/jacket-2201308/10
+              4. From that page you can add the item to the cart which will increment the counter in the navbar in the top-right corner (the number of items in the cart). 
+              For bonus points, you can also add a new page - Checkout - which will list all of these items and their total price (similar ot this: https://www.c-and-a.com/eu/en/shop/basket)
             
